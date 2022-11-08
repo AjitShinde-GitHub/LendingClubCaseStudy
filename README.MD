@@ -6,8 +6,8 @@
 * Problem Statement
 * Business Objective
 * Data Analysis
-* [Observations](#Observations)
-* [Recommendations](#Recommendations)
+* Observations
+* Recommendations
 
 <!-- You can include any other section that is pertinent to your problem -->
 
