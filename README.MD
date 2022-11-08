@@ -16,11 +16,12 @@ The aim is to identify patterns which indicate if a person is likely to default,
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+## Recommendations
+- Lending club should reduce the high interest loans for 60 months tenure, they are prone to loan default
+- Grades are good metric for detecting defaulters. Lending club should examine more information from borrowers before issuing loans to Low grade (G to A)
+- Small business loans are defaulted more. Lending club should stop/reduce issuing the loans to them
+- Borrowers with mortgage home ownership are taking higher loans and defaulting the approved loans. Lending club should stop giving loans to this category when loan amount requested is more than 12000
+- People with more number of public derogatory records are having more chance of filing a bankruptcy. Lending club should make sure there are no public derogatory records for borrower
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
