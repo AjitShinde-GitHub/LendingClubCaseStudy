@@ -8,6 +8,7 @@
 * [Data Analysis](#Data Analysis)
 * [Observations](#Observations)
 * [Recommendations](#Recommendations)
+* [Problem Statement](#Problem Statement)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
