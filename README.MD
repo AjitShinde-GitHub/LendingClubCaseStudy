@@ -3,9 +3,9 @@
 
 
 ## Table of Contents
-* [Problem Statement]
-* [Business Objective]
-* [Data Analysis]
+* Problem Statement
+* Business Objective
+* Data Analysis
 * [Observations](#Observations)
 * [Recommendations](#Recommendations)
 
