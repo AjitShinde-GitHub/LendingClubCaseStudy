@@ -3,12 +3,11 @@
 
 
 ## Table of Contents
-* [Problem Statement](#Problem Statement)
-* [Business Objective](#Business Obsective)
-* [Data Analysis](#Data Analysis)
+* [Problem Statement]
+* [Business Objective]
+* [Data Analysis]
 * [Observations](#Observations)
 * [Recommendations](#Recommendations)
-* [Problem Statement](#Problem Statement)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
