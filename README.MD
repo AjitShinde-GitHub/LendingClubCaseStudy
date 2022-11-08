@@ -3,7 +3,7 @@
 
 
 ## Table of Contents
-* [ProblemStatement](#Problem Statement)
+* [Problem Statement](#Problem Statement)
 * [Business Objective](#Business Obsective)
 * [Data Analysis](#Data Analysis)
 * [Observations](#Observations)
