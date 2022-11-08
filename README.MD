@@ -1,13 +1,12 @@
 # Project Name
 > Lending Club Case Study
-.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Problem Statement](#general-information)
+* [Business Objective](#technologies-used)
+* [Data Analysis](#conclusions)
+* [Observations](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
