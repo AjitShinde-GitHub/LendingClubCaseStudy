@@ -3,18 +3,16 @@
 
 
 ## Table of Contents
-* [Problem Statement](#general-information)
-* [Business Objective](#technologies-used)
-* [Data Analysis](#conclusions)
-* [Observations](#acknowledgements)
+* [Problem Statement](#Problem Statement)
+* [Business Objective](#Business Obsective)
+* [Data Analysis](#Data Analysis)
+* [Observations](#Observations)
+* [Recommendations](#Recommendations)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+## Problem Statement
+The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
